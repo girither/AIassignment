@@ -1,0 +1,14 @@
+DFS
+A
+Z
+9
+A B 4
+A C 3
+A D 2
+B E 3
+C E 4
+C Z 2
+D E 2
+D Z 2
+E Z 2
+0
